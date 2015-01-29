@@ -13,3 +13,7 @@
 #   email: john@doe.net
 #   password: apassword
 #   # api_key: <your api key here>
+hosting:
+  host: yellow-red-87.locomotivehosting.com
+  api_key: ab5f3313890bd5863a1ec2afe5fe81e88d591063
+  ssl: true
